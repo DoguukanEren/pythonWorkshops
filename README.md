@@ -1,0 +1,2 @@
+# pythonWorkshops
+Python Küçük Alıştırmalar
